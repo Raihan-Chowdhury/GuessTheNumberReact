@@ -1,3 +1,3 @@
 # GuessTheNumberReact
 
-![img](https://github.com/raihan-chowdhury/GuessTheNumberReact/blob/master/GTN.png?raw=true)
+![img](https://github.com/raihan-chowdhury/GuessTheNumberReact/blob/main/GTN.png?raw=true)
