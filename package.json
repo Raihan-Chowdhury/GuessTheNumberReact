@@ -1,0 +1,31 @@
+{
+  "name": "guessthenumber",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "animate.css": "4.1.1",
+    "react": "17.0.0",
+    "react-dom": "17.0.0",
+    "react-kawaii": "0.16.0",
+    "react-scripts": "3.4.3",
+    "react-spring": "8.0.27",
+    "react-styleguidist": "11.1.2"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

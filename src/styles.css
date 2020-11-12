@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Sniglet&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Barlow:wght@700&display=swap");
+* {
+  font-family: "barlow", cursive;
+  background: black;
+  color: #e74c3c;
+  -webkit-font-smoothing: antialiased;
+}
+.App {
+  height: 90vh;
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.SearchBox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.searchBar {
+  text-align: center;
+  font-size: 20px;
+  letter-spacing: 5px;
+  padding: 20px;
+  margin: 15px;
+  border: 2px solid #e74c3c;
+  /* min-height: 200px; */
+  /* max-height: 200px; */
+}
+.btn {
+  margin: 20px;
+  border: 0px;
+  border-radius: 5px;
+  background: #e74c3c;
+  color: white;
+  padding: 10px;
+  font-size: 15px;
+  width: 250px;
+}
